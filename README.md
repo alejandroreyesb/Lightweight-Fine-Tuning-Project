@@ -9,7 +9,8 @@ Fine-tuning dataset: SMS Spam, as it aligns with the project’s requirements of
 
 # Run in your own computer
 
-To run in my own laptop was a little tricky. I use a NVIDIA GeForce RTX 5050 
+To run in my own laptop was a little tricky. I use a NVIDIA GeForce RTX 5050
+
 To create the enviroment in your computer with CUDA I use this command:
 
 pip install torch torchvision torchaudio transformers --index-url https://download.pytorch.org/whl/nightly/cu130
